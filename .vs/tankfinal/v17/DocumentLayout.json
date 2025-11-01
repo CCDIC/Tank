@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProject\\tankfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\tankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\tankattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|e:\\unityproject\\tankfinal\\assets\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|e:\\unityproject\\tankfinal\\assets\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\shell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\scorekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\scorekeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\sprites\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|E:\\UnityProject\\tankfinal\\assets\\sprites\\followtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381D469B-A911-A587-0D35-0D8B612F8955}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\followtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Exit.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\Exit.cs",
+              "RelativeToolTip": "Assets\\Exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:35:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreKeeper.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\ScoreKeeper.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreKeeper.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\ScoreKeeper.cs",
+              "RelativeToolTip": "Assets\\ScoreKeeper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:39:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ButtonManager.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\ButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:39:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\TextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TextManager.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\TextManager.cs",
+              "RelativeToolTip": "Assets\\TextManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:44:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tankhealth.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\tankhealth.cs",
+              "RelativeDocumentMoniker": "Assets\\tankhealth.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\tankhealth.cs",
+              "RelativeToolTip": "Assets\\tankhealth.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:31:42.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shell.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\shell.cs",
+              "RelativeDocumentMoniker": "Assets\\shell.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\shell.cs",
+              "RelativeToolTip": "Assets\\shell.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:59:52.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "followtarget.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\Sprites\\followtarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\followtarget.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\Sprites\\followtarget.cs",
+              "RelativeToolTip": "Assets\\Sprites\\followtarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:34:52.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankAttack.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\TankAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\TankAttack.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\TankAttack.cs",
+              "RelativeToolTip": "Assets\\TankAttack.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:27:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tankmovement.cs",
+              "DocumentMoniker": "E:\\UnityProject\\tankfinal\\Assets\\Sprites\\tankmovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\tankmovement.cs",
+              "ToolTip": "E:\\UnityProject\\tankfinal\\Assets\\Sprites\\tankmovement.cs",
+              "RelativeToolTip": "Assets\\Sprites\\tankmovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:51:01.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
